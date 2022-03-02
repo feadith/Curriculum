@@ -3,46 +3,46 @@ This repo contain the readme file that list all the learning videos uploaded in 
 
 ## **SOFTWARE TUTORIAL**
 
-## Abaqus
+### Abaqus
 
-## LS-DYNA
+### LS-DYNA
 
-## ANSYS
+### ANSYS
 
-## SOLIDWORKS
+### SOLIDWORKS
 
-## AUTODESK INVENTOR
+### AUTODESK INVENTOR
 
-## STAAD-PRO
+### STAAD-PRO
 
-## ETABS
+### ETABS
 
-## SAP2000
+### SAP2000
 
-## PLAXIS 2D/3D
+### PLAXIS 2D/3D
 
 
 ## **LECTURE NOTES**
 
-## Mechanics of Materials
+### Mechanics of Materials
 
-## Continuum Mechanics
+### Continuum Mechanics
 
-## Introduction to Finite Element Method
+### Introduction to Finite Element Method
 
-## Programming Finite Element Method
+### Programming Finite Element Method
 
-## Mechanics of Composite Materials
+### Mechanics of Composite Materials
 
-## Computational Plasticity
+### Computational Plasticity
 
-## Damage Mechanics
+### Damage Mechanics
 
-## Material Modeling
+### Material Modeling
 
-## Applied Numerical Linear Algebra
+### Applied Numerical Linear Algebra
 
-## AI, Machine Learning, Neural Networks for Non-CS Engineer
+### AI, Machine Learning, Neural Networks for Non-CS Engineer
 
 <br />
 
