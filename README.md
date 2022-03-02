@@ -1,6 +1,7 @@
 # Curriculum
 This repo contain the readme file that list all the learning videos uploaded in FEADITH Technologies channel. You can use this list to guid you study through all the materials as needed. At the moment, FEADITH focused on learning ABAQUS software for various types of problem including modeling failure in metals, polymers and composite materials for both static and dynamic loadings. In near future, we will cover other software such as LS-DYNA and ANSYS, specifically for modeling of composite material first since this topic is very close to our current research.
 
+## **SOFTWARE TUTORIAL**
 
 ## Abaqus
 
@@ -19,6 +20,29 @@ This repo contain the readme file that list all the learning videos uploaded in 
 ## SAP2000
 
 ## PLAXIS 2D/3D
+
+
+## **LECTURE NOTES**
+
+## Mechanics of Materials
+
+## Continuum Mechanics
+
+## Introduction to Finite Element Method
+
+## Programming Finite Element Method
+
+## Mechanics of Composite Materials
+
+## Computational Plasticity
+
+## Damage Mechanics
+
+## Material Modeling
+
+## Applied Numerical Linear Algebra
+
+## AI, Machine Learning, Neural Networks for Non-CS Engineer
 
 <br />
 
